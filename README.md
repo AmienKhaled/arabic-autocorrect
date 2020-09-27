@@ -5,6 +5,7 @@ Arabic autocorrect using probabilistic methods and edit distance
 
 # Dataset
 Make sure to download the dataset and put it in right directory
+
 https://github.com/elnagara/BRAD-Arabic-Dataset/tree/master/data
 
 # Note
