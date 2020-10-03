@@ -1,6 +1,6 @@
 # arabic-autocorrect
 Arabic autocorrect using probabilistic methods and edit distance
-
+الملء التلقائي للغة العربية باستخدام الاحتمالات و البرمجة الديناميكية
 ![Arabic Autocorrect](imgs/1.jpeg "Arabic Autocorrect")
 
 # Dataset
